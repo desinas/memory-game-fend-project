@@ -8,7 +8,7 @@ There are Font awesome's symbols anchor, diamond, leaf, bomb, bolt, bicycle, pap
 
 Make moves on the table of cards by choosing pairs of cards that you think that have the same symbols. If the cards match, they will remain open. If they do not match, they will flip over and you can try again.
 
-## Start Game [:game_die: :video_game:](https://zen-pare-2c4163.netlify.com)
+## Start Game [:game_die: Memory Puzzle Game :video_game:](https://memory-puzzle-game.netlify.com)
 
 # Project Specification
 
